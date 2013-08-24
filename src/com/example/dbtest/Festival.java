@@ -55,6 +55,7 @@ public class Festival implements Parcelable {
 			
 			public Festival [] newArray(int size){
 			return new Festival [size];
+			//TESTER
 			}
 
 		};
